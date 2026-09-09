@@ -1,0 +1,13 @@
+model_id	publication_family_id	analysis_tier	model_formula	contrast_role	uncertainty
+B_heat_joint	bahrami_2025	conditional_exploratory	~ 0 + cell	context	Reported biological samples; physical heat-assignment units and harvest position within the heat pulse are unknown; conditional sample independence is assumed.
+Pacak_shoot	pacak_2016	conditional_exploratory	~ 0 + cell	exposure	Reported biological samples; physical heat-assignment units are unknown; conditional sample independence is assumed.
+Pacak_root	pacak_2016	conditional_exploratory	~ 0 + cell	context	Reported biological samples; physical heat-assignment units are unknown; roots are a separate context analysis; conditional sample independence is assumed.
+F_middle	fernandez_2026	conditional_exploratory	~ 0 + cell	exposure	Three reported RNA pools per condition; heat-assignment units are unknown; regions share source pools and are fitted separately; one publication family; conditional sample independence is assumed.
+F_tip	fernandez_2026	conditional_exploratory	~ 0 + cell	context	Three reported RNA pools per condition; heat-assignment units are unknown; regions share source pools and are fitted separately; one publication family; conditional sample independence is assumed.
+F_base	fernandez_2026	conditional_exploratory	~ 0 + cell	context	Three reported RNA pools per condition; heat-assignment units are unknown; regions share source pools and are fitted separately; one publication family; conditional sample independence is assumed.
+CR22_day1	crown_sdw1	conditional_exploratory	~ 0 + cell	exposure	Reported biological samples; physical heat-assignment units are unknown; conditional sample independence is assumed.
+CR22_day10	crown_sdw1	conditional_exploratory	~ 0 + cell	exposure	Reported biological samples; physical heat-assignment units are unknown; conditional sample independence is assumed.
+HSF_exp1	pratx_2025	conditional_exploratory	~ 0 + cell	context	Reported biological samples; physical heat-assignment units are unknown; conditional sample independence is assumed.
+HSF_exp2	pratx_2025	conditional_exploratory	~ 0 + cell	context	Reported biological samples; physical heat-assignment units are unknown; conditional sample independence is assumed.
+MC_day3	mikolajczak_2023	conditional_exploratory	~ 0 + cell	exposure	Reported biological samples; physical heat-assignment units are unknown; conditional sample independence is assumed.
+MC_day7	mikolajczak_2023	conditional_exploratory	~ 0 + cell	exposure	Reported biological samples; physical heat-assignment units are unknown; conditional sample independence is assumed.

@@ -1,0 +1,13 @@
+model_id	analysis_tier	qc_review	review_note
+B_heat_joint	conditional_exploratory	pass	Source-analysis admission setting; reassess regenerated QC before inference. Physical treatment units remain unverified.
+F_middle	conditional_exploratory	pass	Source-analysis admission setting; reassess regenerated QC before inference. Physical treatment units remain unverified.
+F_tip	conditional_exploratory	pass	Source-analysis admission setting; reassess regenerated QC before inference. Physical treatment units remain unverified.
+F_base	conditional_exploratory	pass	Source-analysis admission setting; reassess regenerated QC before inference. Physical treatment units remain unverified.
+Pacak_shoot	conditional_exploratory	pass	Source-analysis admission setting; reassess regenerated QC before inference. Physical treatment units remain unverified.
+Pacak_root	conditional_exploratory	pass	Source-analysis admission setting; reassess regenerated QC before inference. Physical treatment units remain unverified.
+CR22_day1	conditional_exploratory	pass	Source-analysis admission setting; reassess regenerated QC before inference. Physical treatment units remain unverified.
+CR22_day10	conditional_exploratory	pass	Source-analysis admission setting; reassess regenerated QC before inference. Physical treatment units remain unverified.
+HSF_exp1	conditional_exploratory	pass	Source-analysis admission setting; reassess regenerated QC before inference. Physical treatment units remain unverified.
+HSF_exp2	conditional_exploratory	pass	Source-analysis admission setting; reassess regenerated QC before inference. Physical treatment units remain unverified.
+MC_day3	conditional_exploratory	pass	Source-analysis admission setting; reassess regenerated QC before inference. Physical treatment units remain unverified.
+MC_day7	conditional_exploratory	pass	Source-analysis admission setting; reassess regenerated QC before inference. Physical treatment units remain unverified.

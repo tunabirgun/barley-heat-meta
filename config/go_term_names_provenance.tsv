@@ -1,0 +1,338 @@
+pathway_id	pathway_name	source	source_version	filled_date_utc
+GO:0002100	tRNA wobble adenosine to inosine editing	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0005968	Rab-protein geranylgeranyltransferase complex	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0015180	L-alanine transmembrane transporter activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0015184	L-cystine transmembrane transporter activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0015207	adenine transmembrane transporter activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0015229	L-ascorbic acid transmembrane transporter activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0015230	FAD transmembrane transporter activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0015250	water channel activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0019354	siroheme biosynthetic process	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0030955	potassium ion binding	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0030956	glutamyl-tRNA(Gln) amidotransferase complex	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0030968	endoplasmic reticulum unfolded protein response	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0030970	retrograde protein transport, ER to cytosol	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0030974	thiamine pyrophosphate transmembrane transport	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0030975	thiamine binding	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0030976	thiamine pyrophosphate binding	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0031011	Ino80 complex	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0031021	interphase microtubule organizing center	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0031022	nuclear migration along microfilament	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0031053	primary miRNA processing	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0031071	cysteine desulfurase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0031080	nuclear pore outer ring	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0031083	BLOC-1 complex	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0031087	deadenylation-independent decapping of nuclear-transcribed mRNA	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0033540	fatty acid beta-oxidation using acyl-CoA oxidase	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0033550	MAP kinase tyrosine phosphatase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0033565	ESCRT-0 complex	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0033566	gamma-tubulin complex localization	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0033567	DNA replication, Okazaki fragment processing	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0033588	elongator holoenzyme complex	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0033614	chloroplast proton-transporting ATP synthase complex assembly	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0033615	mitochondrial proton-transporting ATP synthase complex assembly	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0033617	mitochondrial respiratory chain complex IV assembly	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0033699	DNA 5'-adenosine monophosphate hydrolase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0033707	3''-deamino-3''-oxonicotianamine reductase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0033728	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (NADPH) activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0033730	arogenate dehydrogenase (NADP+) activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0033741	adenylyl-sulfate reductase (glutathione) activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0033743	peptide-methionine (R)-S-oxide reductase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0036220	ITP diphosphatase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0036222	XTP diphosphatase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0036228	protein localization to nuclear inner membrane	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0036258	multivesicular body assembly	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0036261	7-methylguanosine cap hypermethylation	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0036297	interstrand cross-link repair	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0036374	glutathione gamma-glutamate hydrolase	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0036377	arbuscular mycorrhizal association	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0036381	pyridoxal 5'-phosphate synthase (glutamine hydrolysing) activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0036396	RNA N6-methyladenosine methyltransferase complex	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0036402	proteasome-activating activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0036424	L-phosphoserine phosphatase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0036440	citrate synthase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0036469	L-tryptophan decarboxylase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0036498	IRE1-mediated unfolded protein response	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0043879	glycolate transmembrane transporter activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0043916	DNA-7-methylguanine glycosylase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0043953	protein transport by the Tat complex	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0043998	histone H2A acetyltransferase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0044020	histone H4R3 methyltransferase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0044027	negative regulation of gene expression via chromosomal CpG island methylation	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0047453	ATP-dependent NAD(P)H-hydrate dehydratase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0050577	GDP-L-fucose synthase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0050589	leucocyanidin oxygenase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0050613	Delta14-sterol reductase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0050614	Delta24-sterol reductase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0050665	hydrogen peroxide biosynthetic process	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0050687	negative regulation of defense response to virus	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0050821	protein stabilization	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0050897	cobalt ion binding	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0050992	dimethylallyl diphosphate biosynthetic process	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0051010	microtubule plus-end binding	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0051011	microtubule minus-end binding	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0051013	microtubule severing	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0051016	barbed-end actin filament capping	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0051026	chiasma assembly	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0051060	pullulanase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0051082	obsolete unfolded protein binding	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0051083	'de novo' cotranslational protein folding	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0051117	ATPase binding	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0051123	RNA polymerase II preinitiation complex assembly	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0051131	chaperone-mediated protein complex assembly	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0051211	anisotropic cell growth	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0051228	mitotic spindle disassembly	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0051262	protein tetramerization	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0051266	sirohydrochlorin ferrochelatase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0051267	obsolete CP2 mannose-ethanolamine phosphotransferase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0051295	establishment of meiotic spindle localization	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0051306	mitotic sister chromatid separation	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0051377	mannose-ethanolamine phosphotransferase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0051382	kinetochore assembly	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0051391	tRNA acetylation	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0051392	tRNA cytidine N4-acetyltransferase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0051415	microtubule nucleation by interphase microtubule organizing center	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0051455	spindle attachment to meiosis I kinetochore	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0051500	D-tyrosyl-tRNA(Tyr) deacylase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0051511	negative regulation of unidimensional cell growth	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0051512	positive regulation of unidimensional cell growth	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0051513	regulation of monopolar cell growth	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0051537	2 iron, 2 sulfur cluster binding	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0051538	3 iron, 4 sulfur cluster binding	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0051539	4 iron, 4 sulfur cluster binding	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0051560	mitochondrial calcium ion homeostasis	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0051575	5'-deoxyribose-5-phosphate lyase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0051598	meiotic recombination checkpoint signaling	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0051601	exocyst localization	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0051682	galactomannan catabolic process	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0071008	U2-type post-mRNA release spliceosomal complex	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0071596	ubiquitin-dependent protein catabolic process via the N-end rule pathway	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0080120	CAAX-box protein maturation	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0097163	sulfur carrier activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0106290	trans-cinnamate-CoA ligase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0106292	superoxide-generating NADPH oxidase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0106300	protein-DNA covalent cross-linking repair	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0106312	methylenetetrahydrofolate reductase (NADH) activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0106335	tRNA (5-carboxymethyluridine(34)-5-O)-methyltransferase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0106340	tRNA (guanosine(34)-2'-O-ribose)-methyltransferase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0106359	2-hydroxyacyl-CoA lyase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0106364	4-hydroxy-3-all-trans-polyprenylbenzoate oxygenase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0106386	(3R)-3-hydroxyacyl-CoA dehydrogenase (NAD+) activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0106388	rRNA small subunit aminocarboxypropyltransferase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0106430	dihydroorotate dehydrogenase (quinone) activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0110051	metabolite repair	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0110102	ribulose bisphosphate carboxylase complex assembly	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0110104	mRNA alternative polyadenylation	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0110155	NAD-cap decapping	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0120009	intermembrane lipid transfer	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0120016	sphingolipid transfer activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0120029	proton export across plasma membrane	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0120091	jasmonic acid hydrolase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0120115	Lsm2-8 complex	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0120230	recombinase activator activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0120231	DNA recombinase auxiliary factor complex	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0120330	rixosome complex	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0120510	mitochondrial [4Fe-4S] assembly complex	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0120514	2-hydroxyflavanone C-glucosyltransferase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0120518	protein N-terminal-methionine acetyltransferase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0120519	tubulin N-terminal-methionine acetyltransferase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0120538	2-methoxy-6-polyprenolphenol 4-hydroxylase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0120539	4-hydroxy-3-methoxy-5-polyprenylbenzoate decarboxylase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0120547	heme A synthase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0140002	histone H3K4me3 reader activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0140008	histone H4 reader activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0140021	mitochondrial ADP transmembrane transport	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0140042	lipid droplet formation	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0140078	class I DNA-(apurinic or apyrimidinic site) endonuclease activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0140225	DNA topoisomerase III-beta-TDRD3 complex	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0140315	iron ion sequestering activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0140431	DNA-(abasic site) binding	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0140445	chromosome, telomeric repeat region	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0140455	cytoplasm protein quality control	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0140490	microtubule nucleator activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0140492	metal-dependent deubiquitinase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0140496	gamma-tubulin complex binding	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0140581	P-type monovalent copper transporter activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0140588	chromatin looping	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0140618	ferric-chelate reductase (NADH) activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0140647	P450-containing electron transport chain	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0140658	ATP-dependent chromatin remodeler activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0140662	ATP-dependent protein folding chaperone	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0140663	ATP-dependent FeS chaperone activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0140664	ATP-dependent DNA damage sensor activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0140670	cohesin unloader activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0140673	transcription elongation-coupled chromatin remodeling	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0140693	molecular condensate scaffold activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0140750	nucleosome array spacer activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0140767	enzyme-substrate adaptor activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0140777	protein-containing complex stabilizing activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0140818	mRNA 5'-triphosphate monophosphatase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0140825	lactoperoxidase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0140827	zinc chaperone activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0140861	DNA repair-dependent chromatin remodeling	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0140899	plastid gene expression	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0140933	5'-(N(7)-methylguanosine 5'-triphospho)-[mRNA] hydrolase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0140936	histone H2B deubiquitinase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0140950	histone H2A deubiquitinase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0140951	histone H3K27 trimethyltransferase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0140953	histone H3K27 monomethyltransferase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0140964	intracellular auxin homeostasis	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0140999	histone H3K4 trimethyltransferase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0141010	transposable element silencing by siRNA-mediated DNA methylation	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0141046	Atg8-family conjugating enzyme activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0141100	tRNA (guanine(18)-2'-O-ribose)-methyltransferase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0141106	tRNA methyltransferase activator activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0141131	DNA N6-methyladenine demethylase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0141133	diphthine methyl ester synthase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0141148	enoyl-[acyl-carrier-protein] reductase (NADPH) activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0141152	glycerol-3-phosphate dehydrogenase (NAD+) activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0141166	chromosomal 5-methylcytosine DNA demethylation pathway	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0141185	UFM1-modified protein reader activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0160072	ubiquitin ligase complex scaffold activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0160102	tRNA (guanine(10)-N2)-methyltransferase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0160104	tRNA (guanine(26)-N2)-dimethyltransferase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0160129	protein-DNA covalent cross-linking activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0160147	tRNA pseudouridine(38-40) synthase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0160148	tRNA pseudouridine(55) synthase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0160157	branched-chain alpha-ketoacid dehydrogenase complex	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0160198	polyprenal reductase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0160246	NADPH-iron-sulfur [2Fe-2S] protein oxidoreductase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0180022	RQC-trigger complex	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:0180062	protein O-linked glycosylation via galactose	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1900366	negative regulation of defense response to insect	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1900367	positive regulation of defense response to insect	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1900457	regulation of brassinosteroid mediated signaling pathway	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1900458	negative regulation of brassinosteroid mediated signaling pathway	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1900459	positive regulation of brassinosteroid mediated signaling pathway	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1900865	chloroplast RNA modification	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1900871	chloroplast mRNA modification	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1901002	positive regulation of response to salt stress	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1901031	regulation of response to reactive oxygen species	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1901096	regulation of autophagosome maturation	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1901255	nucleotide-excision repair involved in interstrand cross-link repair	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1901259	chloroplast rRNA processing	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1901333	positive regulation of lateral root development	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1901601	strigolactone biosynthetic process	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1901612	cardiolipin binding	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1901671	positive regulation of superoxide dismutase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1901673	regulation of mitotic spindle assembly	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1901838	positive regulation of transcription of nucleolar large rRNA by RNA polymerase I	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1901847	nicotinate metabolic process	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1901957	regulation of cutin biosynthetic process	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1901962	S-adenosyl-L-methionine transmembrane transport	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1901974	glycerate transmembrane transporter activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1901975	glycerate transmembrane transport	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1902000	homogentisate catabolic process	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1902047	polyamine transmembrane transport	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1902065	response to L-glutamate	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1902183	regulation of shoot apical meristem development	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1902184	negative regulation of shoot apical meristem development	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1902326	positive regulation of chlorophyll biosynthetic process	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1902347	response to strigolactone	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1902356	oxaloacetate(2-) transmembrane transport	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1902358	sulfate transmembrane transport	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1902387	ceramide 1-phosphate binding	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1902388	ceramide 1-phosphate transfer activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1902389	ceramide 1-phosphate transport	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1902417	(+)-abscisic acid D-glucopyranosyl ester transmembrane transporter activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1902418	(+)-abscisic acid D-glucopyranosyl ester transmembrane transport	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1902456	regulation of stomatal opening	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1902457	negative regulation of stomatal opening	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1902476	chloride transmembrane transport	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1902559	3'-phospho-5'-adenylyl sulfate transmembrane transport	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1902584	positive regulation of response to water deprivation	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1902775	mitochondrial large ribosomal subunit assembly	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1902882	regulation of response to oxidative stress	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1902884	positive regulation of response to oxidative stress	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1902969	mitotic DNA replication	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1902975	mitotic DNA replication initiation	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1902977	mitotic DNA replication preinitiation complex assembly	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1902983	DNA strand elongation involved in mitotic DNA replication	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1903189	glyoxal metabolic process	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1903229	xanthosine biosynthetic process	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1903259	exon-exon junction complex disassembly	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1903292	protein localization to Golgi membrane	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1903424	fluoride transmembrane transport	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1903457	lactate catabolic process	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1903600	glutaminase complex	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1903602	thermospermine catabolic process	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1903607	cytochrome c biosynthetic process	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1903865	sigma factor antagonist complex	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1904047	S-adenosyl-L-methionine binding	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1904143	positive regulation of carotenoid biosynthetic process	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1904161	DNA synthesis involved in UV-damage excision repair	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1904215	regulation of protein import into chloroplast stroma	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1904262	negative regulation of TORC1 signaling	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1904263	positive regulation of TORC1 signaling	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1904278	positive regulation of wax biosynthetic process	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1904292	regulation of ERAD pathway	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1904293	negative regulation of ERAD pathway	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1904294	positive regulation of ERAD pathway	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1904880	response to hydrogen sulfide	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1904975	response to bleomycin	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1990423	RZZ complex	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1990426	mitotic recombination-dependent replication fork processing	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1990429	peroxisomal importomer complex	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1990446	U1 snRNP binding	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1990481	mRNA pseudouridine synthesis	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1990498	mitotic spindle microtubule	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1990518	single-stranded 3'-5' DNA helicase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1990529	glycosylphosphatidylinositol-mannosyltransferase I complex	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1990538	xylan O-acetyltransferase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1990544	mitochondrial ATP transmembrane transport	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1990547	mitochondrial phosphate ion transmembrane transport	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1990559	mitochondrial coenzyme A transmembrane transport	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1990569	UDP-N-acetylglucosamine transmembrane transport	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1990570	GDP-mannose transmembrane transport	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1990575	mitochondrial L-ornithine transmembrane transport	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1990610	acetolactate synthase regulator activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1990641	response to iron ion starvation	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1990714	hydroxyproline O-galactosyltransferase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1990726	Lsm1-7-Pat1 complex	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1990745	EARP complex	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1990756	ubiquitin-like ligase-substrate adaptor activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1990757	ubiquitin ligase activator activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1990810	microtubule anchoring at mitotic spindle pole body	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1990811	MWP complex	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1990814	DNA/DNA annealing activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1990817	poly(A) RNA polymerase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1990825	sequence-specific mRNA binding	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1990838	poly(U)-specific exoribonuclease activity, producing 3' uridine cyclic phosphate ends	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1990841	promoter-specific chromatin binding	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1990879	CST complex	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1990883	18S rRNA cytidine N-acetyltransferase activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1990889	histone H4K20me3 reader activity	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1990918	double-strand break repair involved in meiotic recombination	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:1990966	ATP generation from poly-ADP-D-ribose	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:2000001	regulation of DNA damage checkpoint	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:2000008	regulation of protein localization to cell surface	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:2000011	regulation of adaxial/abaxial pattern formation	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:2000012	regulation of auxin polar transport	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:2000014	regulation of endosperm development	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:2000022	regulation of jasmonic acid mediated signaling pathway	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:2000032	regulation of secondary shoot formation	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:2000033	regulation of seed dormancy process	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:2000037	regulation of stomatal complex patterning	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:2000038	regulation of stomatal complex development	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:2000042	negative regulation of double-strand break repair via homologous recombination	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:2000068	regulation of defense response to insect	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:2000123	positive regulation of stomatal complex development	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:2000234	positive regulation of rRNA processing	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:2000280	regulation of root development	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:2000601	positive regulation of Arp2/3 complex-mediated actin nucleation	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:2000641	regulation of early endosome to late endosome transport	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:2000685	positive regulation of cellular response to X-ray	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:2000694	regulation of phragmoplast microtubule organization	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:2000762	regulation of phenylpropanoid metabolic process	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:2000767	positive regulation of cytoplasmic translation	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:2000786	positive regulation of autophagosome assembly	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:2001006	regulation of cellulose biosynthetic process	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:2001066	amylopectin binding	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:2001070	starch binding	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:2001125	negative regulation of translational frameshifting	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:2001235	positive regulation of apoptotic signaling pathway	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:2001243	negative regulation of intrinsic apoptotic signaling pathway	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:2001289	lipid X metabolic process	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:2001294	malonyl-CoA catabolic process	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07
+GO:2001295	malonyl-CoA biosynthetic process	go-basic.obo (purl.obolibrary.org/obo/go/go-basic.obo)	releases/2026-07-26	2026-09-07

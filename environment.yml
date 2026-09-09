@@ -1,0 +1,21 @@
+name: barley-heat
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.12.13
+  - r-base=4.5.2
+  - bioconductor-deseq2=1.50.2
+  - bioconductor-fgsea=1.36.2
+  - r-ashr=2.2_63
+  - star=2.7.11b
+  - subread=2.1.1
+  - fastp=1.0.1
+  - fastqc=0.12.1
+  - samtools=1.22.1
+  - rseqc=5.0.4
+  - curl=8.20.0
+  - numpy=2.4.6
+  - r-metafor=5.0_1
+  - r-jsonlite=2.0.0
+  - gffread=0.12.9

@@ -1,0 +1,168 @@
+model_id	sample	run	genotype	condition	replicate	tissue	time	read1	read2
+B_heat_joint	B_SAMN44462700	SRR31127948	wild_Urmia	heat	2	leaf	NA	data/raw/fastq/SRR31127948/SRR31127948_1.fastq.gz	data/raw/fastq/SRR31127948/SRR31127948_2.fastq.gz
+B_heat_joint	B_SAMN44462699	SRR31127949	wild_Urmia	heat	1	leaf	NA	data/raw/fastq/SRR31127949/SRR31127949_1.fastq.gz	data/raw/fastq/SRR31127949/SRR31127949_2.fastq.gz
+B_heat_joint	B_SAMN44462687	SRR31127951	Mona	heat	1	leaf	NA	data/raw/fastq/SRR31127951/SRR31127951_1.fastq.gz	data/raw/fastq/SRR31127951/SRR31127951_2.fastq.gz
+B_heat_joint	B_SAMN44500250	SRR31178571	wild_Urmia	control	2	leaf	NA	data/raw/fastq/SRR31178571/SRR31178571_1.fastq.gz	data/raw/fastq/SRR31178571/SRR31178571_2.fastq.gz
+B_heat_joint	B_SAMN44500248	SRR31178573	Mona	control	2	leaf	NA	data/raw/fastq/SRR31178573/SRR31178573_1.fastq.gz	data/raw/fastq/SRR31178573/SRR31178573_2.fastq.gz
+B_heat_joint	B_SAMN44500249	SRR31178572	wild_Urmia	control	1	leaf	NA	data/raw/fastq/SRR31178572/SRR31178572_1.fastq.gz	data/raw/fastq/SRR31178572/SRR31178572_2.fastq.gz
+B_heat_joint	B_SAMN44500247	SRR31178574	Mona	control	1	leaf	NA	data/raw/fastq/SRR31178574/SRR31178574_1.fastq.gz	data/raw/fastq/SRR31178574/SRR31178574_2.fastq.gz
+B_heat_joint	B_SAMN44462689	SRR31127950	Mona	heat	2	leaf	NA	data/raw/fastq/SRR31127950/SRR31127950_1.fastq.gz	data/raw/fastq/SRR31127950/SRR31127950_2.fastq.gz
+Pacak_shoot	GSM2184140	SRR3618865	Rolap	control	1	shoot	1 h after heat initiation or matched control time	data/raw/fastq/SRR3618865/SRR3618865_1.fastq.gz	data/raw/fastq/SRR3618865/SRR3618865_2.fastq.gz
+Pacak_shoot	GSM2184141	SRR3618866	Rolap	control	2	shoot	1 h after heat initiation or matched control time	data/raw/fastq/SRR3618866/SRR3618866_1.fastq.gz	data/raw/fastq/SRR3618866/SRR3618866_2.fastq.gz
+Pacak_shoot	GSM2184142	SRR3618867	Rolap	control	3	shoot	1 h after heat initiation or matched control time	data/raw/fastq/SRR3618867/SRR3618867_1.fastq.gz	data/raw/fastq/SRR3618867/SRR3618867_2.fastq.gz
+Pacak_shoot	GSM2184143	SRR3618868	Rolap	heat	1	shoot	1 h after heat initiation or matched control time	data/raw/fastq/SRR3618868/SRR3618868_1.fastq.gz	data/raw/fastq/SRR3618868/SRR3618868_2.fastq.gz
+Pacak_shoot	GSM2184144	SRR3618869	Rolap	heat	2	shoot	1 h after heat initiation or matched control time	data/raw/fastq/SRR3618869/SRR3618869_1.fastq.gz	data/raw/fastq/SRR3618869/SRR3618869_2.fastq.gz
+Pacak_shoot	GSM2184145	SRR3618870	Rolap	heat	3	shoot	1 h after heat initiation or matched control time	data/raw/fastq/SRR3618870/SRR3618870_1.fastq.gz	data/raw/fastq/SRR3618870/SRR3618870_2.fastq.gz
+Pacak_root	GSM2184146	SRR3618871	Rolap	control	1	root	1 h after heat initiation or matched control time	data/raw/fastq/SRR3618871/SRR3618871_1.fastq.gz	data/raw/fastq/SRR3618871/SRR3618871_2.fastq.gz
+Pacak_root	GSM2184147	SRR3618872	Rolap	control	2	root	1 h after heat initiation or matched control time	data/raw/fastq/SRR3618872/SRR3618872_1.fastq.gz	data/raw/fastq/SRR3618872/SRR3618872_2.fastq.gz
+Pacak_root	GSM2184148	SRR3618873	Rolap	heat	1	root	1 h after heat initiation or matched control time	data/raw/fastq/SRR3618873/SRR3618873_1.fastq.gz	data/raw/fastq/SRR3618873/SRR3618873_2.fastq.gz
+Pacak_root	GSM2184149	SRR3618874	Rolap	heat	2	root	1 h after heat initiation or matched control time	data/raw/fastq/SRR3618874/SRR3618874_1.fastq.gz	data/raw/fastq/SRR3618874/SRR3618874_2.fastq.gz
+F_tip	F_SAMN49027292	SRR33986268	Morex	heat	3	leaf_tip	4 h during exposure; matched control	data/raw/fastq/SRR33986268/SRR33986268_1.fastq.gz	data/raw/fastq/SRR33986268/SRR33986268_2.fastq.gz
+F_base	F_SAMN49027286	SRR33986274	Morex	heat	3	leaf_base	4 h during exposure; matched control	data/raw/fastq/SRR33986274/SRR33986274_1.fastq.gz	data/raw/fastq/SRR33986274/SRR33986274_2.fastq.gz
+F_base	F_SAMN49027284	SRR33986260	Morex	heat	1	leaf_base	4 h during exposure; matched control	data/raw/fastq/SRR33986260/SRR33986260_1.fastq.gz	data/raw/fastq/SRR33986260/SRR33986260_2.fastq.gz
+F_middle	F_SAMN49027280	SRR33986264	Morex	control	3	leaf_middle	4 h during exposure; matched control	data/raw/fastq/SRR33986264/SRR33986264_1.fastq.gz	data/raw/fastq/SRR33986264/SRR33986264_2.fastq.gz
+F_middle	F_SAMN49027279	SRR33986265	Morex	control	2	leaf_middle	4 h during exposure; matched control	data/raw/fastq/SRR33986265/SRR33986265_1.fastq.gz	data/raw/fastq/SRR33986265/SRR33986265_2.fastq.gz
+F_tip	F_SAMN49027290	SRR33986270	Morex	heat	1	leaf_tip	4 h during exposure; matched control	data/raw/fastq/SRR33986270/SRR33986270_1.fastq.gz	data/raw/fastq/SRR33986270/SRR33986270_2.fastq.gz
+F_base	F_SAMN49027285	SRR33986275	Morex	heat	2	leaf_base	4 h during exposure; matched control	data/raw/fastq/SRR33986275/SRR33986275_1.fastq.gz	data/raw/fastq/SRR33986275/SRR33986275_2.fastq.gz
+F_tip	F_SAMN49027281	SRR33986263	Morex	control	1	leaf_tip	4 h during exposure; matched control	data/raw/fastq/SRR33986263/SRR33986263_1.fastq.gz	data/raw/fastq/SRR33986263/SRR33986263_2.fastq.gz
+F_middle	F_SAMN49027287	SRR33986273	Morex	heat	1	leaf_middle	4 h during exposure; matched control	data/raw/fastq/SRR33986273/SRR33986273_1.fastq.gz	data/raw/fastq/SRR33986273/SRR33986273_2.fastq.gz
+F_base	F_SAMN49027277	SRR33986267	Morex	control	3	leaf_base	4 h during exposure; matched control	data/raw/fastq/SRR33986267/SRR33986267_1.fastq.gz	data/raw/fastq/SRR33986267/SRR33986267_2.fastq.gz
+F_tip	F_SAMN49027291	SRR33986269	Morex	heat	2	leaf_tip	4 h during exposure; matched control	data/raw/fastq/SRR33986269/SRR33986269_1.fastq.gz	data/raw/fastq/SRR33986269/SRR33986269_2.fastq.gz
+F_middle	F_SAMN49027288	SRR33986272	Morex	heat	2	leaf_middle	4 h during exposure; matched control	data/raw/fastq/SRR33986272/SRR33986272_1.fastq.gz	data/raw/fastq/SRR33986272/SRR33986272_2.fastq.gz
+F_base	F_SAMN49027276	SRR33986276	Morex	control	2	leaf_base	4 h during exposure; matched control	data/raw/fastq/SRR33986276/SRR33986276_1.fastq.gz	data/raw/fastq/SRR33986276/SRR33986276_2.fastq.gz
+F_base	F_SAMN49027275	SRR33986277	Morex	control	1	leaf_base	4 h during exposure; matched control	data/raw/fastq/SRR33986277/SRR33986277_1.fastq.gz	data/raw/fastq/SRR33986277/SRR33986277_2.fastq.gz
+F_tip	F_SAMN49027283	SRR33986261	Morex	control	3	leaf_tip	4 h during exposure; matched control	data/raw/fastq/SRR33986261/SRR33986261_1.fastq.gz	data/raw/fastq/SRR33986261/SRR33986261_2.fastq.gz
+F_tip	F_SAMN49027282	SRR33986262	Morex	control	2	leaf_tip	4 h during exposure; matched control	data/raw/fastq/SRR33986262/SRR33986262_1.fastq.gz	data/raw/fastq/SRR33986262/SRR33986262_2.fastq.gz
+F_middle	F_SAMN49027278	SRR33986266	Morex	control	1	leaf_middle	4 h during exposure; matched control	data/raw/fastq/SRR33986266/SRR33986266_1.fastq.gz	data/raw/fastq/SRR33986266/SRR33986266_2.fastq.gz
+F_middle	F_SAMN49027289	SRR33986271	Morex	heat	3	leaf_middle	4 h during exposure; matched control	data/raw/fastq/SRR33986271/SRR33986271_1.fastq.gz	data/raw/fastq/SRR33986271/SRR33986271_2.fastq.gz
+CR22_day1	CR22_day1_SAMEA9449660	ERR6350169	BW827	control	1	crown	day1	data/raw/fastq/ERR6350169/ERR6350169_1.fastq.gz	data/raw/fastq/ERR6350169/ERR6350169_2.fastq.gz
+CR22_day1	CR22_day1_SAMEA9449661	ERR6350170	BW827	control	2	crown	day1	data/raw/fastq/ERR6350170/ERR6350170_1.fastq.gz	data/raw/fastq/ERR6350170/ERR6350170_2.fastq.gz
+CR22_day1	CR22_day1_SAMEA9449662	ERR6350171	BW827	control	3	crown	day1	data/raw/fastq/ERR6350171/ERR6350171_1.fastq.gz	data/raw/fastq/ERR6350171/ERR6350171_2.fastq.gz
+CR22_day1	CR22_day1_SAMEA9449650	ERR6350160	BW827	heat	1	crown	day1	data/raw/fastq/ERR6350160/ERR6350160_1.fastq.gz	data/raw/fastq/ERR6350160/ERR6350160_2.fastq.gz
+CR22_day1	CR22_day1_SAMEA9449652	ERR6350161	BW827	heat	2	crown	day1	data/raw/fastq/ERR6350161/ERR6350161_1.fastq.gz	data/raw/fastq/ERR6350161/ERR6350161_2.fastq.gz
+CR22_day1	CR22_day1_SAMEA9449653	ERR6350162	BW827	heat	3	crown	day1	data/raw/fastq/ERR6350162/ERR6350162_1.fastq.gz	data/raw/fastq/ERR6350162/ERR6350162_2.fastq.gz
+CR22_day1	CR22_day1_SAMEA9449663	ERR6350172	BW828	control	1	crown	day1	data/raw/fastq/ERR6350172/ERR6350172_1.fastq.gz	data/raw/fastq/ERR6350172/ERR6350172_2.fastq.gz
+CR22_day1	CR22_day1_SAMEA9449664	ERR6350173	BW828	control	2	crown	day1	data/raw/fastq/ERR6350173/ERR6350173_1.fastq.gz	data/raw/fastq/ERR6350173/ERR6350173_2.fastq.gz
+CR22_day1	CR22_day1_SAMEA9449665	ERR6350174	BW828	control	3	crown	day1	data/raw/fastq/ERR6350174/ERR6350174_1.fastq.gz	data/raw/fastq/ERR6350174/ERR6350174_2.fastq.gz
+CR22_day1	CR22_day1_SAMEA9449654	ERR6350163	BW828	heat	1	crown	day1	data/raw/fastq/ERR6350163/ERR6350163_1.fastq.gz	data/raw/fastq/ERR6350163/ERR6350163_2.fastq.gz
+CR22_day1	CR22_day1_SAMEA9449655	ERR6350164	BW828	heat	2	crown	day1	data/raw/fastq/ERR6350164/ERR6350164_1.fastq.gz	data/raw/fastq/ERR6350164/ERR6350164_2.fastq.gz
+CR22_day1	CR22_day1_SAMEA9449656	ERR6350165	BW828	heat	3	crown	day1	data/raw/fastq/ERR6350165/ERR6350165_1.fastq.gz	data/raw/fastq/ERR6350165/ERR6350165_2.fastq.gz
+CR22_day1	CR22_day1_SAMEA9449657	ERR6350166	Bowman	control	1	crown	day1	data/raw/fastq/ERR6350166/ERR6350166_1.fastq.gz	data/raw/fastq/ERR6350166/ERR6350166_2.fastq.gz
+CR22_day1	CR22_day1_SAMEA9449658	ERR6350167	Bowman	control	2	crown	day1	data/raw/fastq/ERR6350167/ERR6350167_1.fastq.gz	data/raw/fastq/ERR6350167/ERR6350167_2.fastq.gz
+CR22_day1	CR22_day1_SAMEA9449659	ERR6350168	Bowman	control	3	crown	day1	data/raw/fastq/ERR6350168/ERR6350168_1.fastq.gz	data/raw/fastq/ERR6350168/ERR6350168_2.fastq.gz
+CR22_day1	CR22_day1_SAMEA9449648	ERR6350157	Bowman	heat	1	crown	day1	data/raw/fastq/ERR6350157/ERR6350157_1.fastq.gz	data/raw/fastq/ERR6350157/ERR6350157_2.fastq.gz
+CR22_day1	CR22_day1_SAMEA9449651	ERR6350158	Bowman	heat	2	crown	day1	data/raw/fastq/ERR6350158/ERR6350158_1.fastq.gz	data/raw/fastq/ERR6350158/ERR6350158_2.fastq.gz
+CR22_day1	CR22_day1_SAMEA9449649	ERR6350159	Bowman	heat	3	crown	day1	data/raw/fastq/ERR6350159/ERR6350159_1.fastq.gz	data/raw/fastq/ERR6350159/ERR6350159_2.fastq.gz
+CR22_day10	CR22_day10_SAMEA9449679	ERR6350187	BW827	control	1	crown	day10	data/raw/fastq/ERR6350187/ERR6350187_1.fastq.gz	data/raw/fastq/ERR6350187/ERR6350187_2.fastq.gz
+CR22_day10	CR22_day10_SAMEA9449680	ERR6350188	BW827	control	2	crown	day10	data/raw/fastq/ERR6350188/ERR6350188_1.fastq.gz	data/raw/fastq/ERR6350188/ERR6350188_2.fastq.gz
+CR22_day10	CR22_day10_SAMEA9449681	ERR6350189	BW827	control	3	crown	day10	data/raw/fastq/ERR6350189/ERR6350189_1.fastq.gz	data/raw/fastq/ERR6350189/ERR6350189_2.fastq.gz
+CR22_day10	CR22_day10_SAMEA9449670	ERR6350178	BW827	heat	1	crown	day10	data/raw/fastq/ERR6350178/ERR6350178_1.fastq.gz	data/raw/fastq/ERR6350178/ERR6350178_2.fastq.gz
+CR22_day10	CR22_day10_SAMEA9449671	ERR6350179	BW827	heat	2	crown	day10	data/raw/fastq/ERR6350179/ERR6350179_1.fastq.gz	data/raw/fastq/ERR6350179/ERR6350179_2.fastq.gz
+CR22_day10	CR22_day10_SAMEA9449672	ERR6350180	BW827	heat	3	crown	day10	data/raw/fastq/ERR6350180/ERR6350180_1.fastq.gz	data/raw/fastq/ERR6350180/ERR6350180_2.fastq.gz
+CR22_day10	CR22_day10_SAMEA9449682	ERR6350190	BW828	control	1	crown	day10	data/raw/fastq/ERR6350190/ERR6350190_1.fastq.gz	data/raw/fastq/ERR6350190/ERR6350190_2.fastq.gz
+CR22_day10	CR22_day10_SAMEA9449683	ERR6350191	BW828	control	2	crown	day10	data/raw/fastq/ERR6350191/ERR6350191_1.fastq.gz	data/raw/fastq/ERR6350191/ERR6350191_2.fastq.gz
+CR22_day10	CR22_day10_SAMEA9449684	ERR6350192	BW828	control	3	crown	day10	data/raw/fastq/ERR6350192/ERR6350192_1.fastq.gz	data/raw/fastq/ERR6350192/ERR6350192_2.fastq.gz
+CR22_day10	CR22_day10_SAMEA9449673	ERR6350181	BW828	heat	1	crown	day10	data/raw/fastq/ERR6350181/ERR6350181_1.fastq.gz	data/raw/fastq/ERR6350181/ERR6350181_2.fastq.gz
+CR22_day10	CR22_day10_SAMEA9449674	ERR6350182	BW828	heat	2	crown	day10	data/raw/fastq/ERR6350182/ERR6350182_1.fastq.gz	data/raw/fastq/ERR6350182/ERR6350182_2.fastq.gz
+CR22_day10	CR22_day10_SAMEA9449675	ERR6350183	BW828	heat	3	crown	day10	data/raw/fastq/ERR6350183/ERR6350183_1.fastq.gz	data/raw/fastq/ERR6350183/ERR6350183_2.fastq.gz
+CR22_day10	CR22_day10_SAMEA9449676	ERR6350184	Bowman	control	1	crown	day10	data/raw/fastq/ERR6350184/ERR6350184_1.fastq.gz	data/raw/fastq/ERR6350184/ERR6350184_2.fastq.gz
+CR22_day10	CR22_day10_SAMEA9449677	ERR6350185	Bowman	control	2	crown	day10	data/raw/fastq/ERR6350185/ERR6350185_1.fastq.gz	data/raw/fastq/ERR6350185/ERR6350185_2.fastq.gz
+CR22_day10	CR22_day10_SAMEA9449678	ERR6350186	Bowman	control	3	crown	day10	data/raw/fastq/ERR6350186/ERR6350186_1.fastq.gz	data/raw/fastq/ERR6350186/ERR6350186_2.fastq.gz
+CR22_day10	CR22_day10_SAMEA9449666	ERR6350175	Bowman	heat	1	crown	day10	data/raw/fastq/ERR6350175/ERR6350175_1.fastq.gz	data/raw/fastq/ERR6350175/ERR6350175_2.fastq.gz
+CR22_day10	CR22_day10_SAMEA9449667	ERR6350176	Bowman	heat	2	crown	day10	data/raw/fastq/ERR6350176/ERR6350176_1.fastq.gz	data/raw/fastq/ERR6350176/ERR6350176_2.fastq.gz
+CR22_day10	CR22_day10_SAMEA9449669	ERR6350177	Bowman	heat	3	crown	day10	data/raw/fastq/ERR6350177/ERR6350177_1.fastq.gz	data/raw/fastq/ERR6350177/ERR6350177_2.fastq.gz
+HSF_exp1	HSF_exp1_SAMN44572801	SRR31221187	Golden_Promise	control	1	leaf	day7	data/raw/fastq/SRR31221187/SRR31221187_1.fastq.gz	data/raw/fastq/SRR31221187/SRR31221187_2.fastq.gz
+HSF_exp1	HSF_exp1_SAMN44572788	SRR31221174	Golden_Promise	control	2	leaf	day7	data/raw/fastq/SRR31221174/SRR31221174_1.fastq.gz	data/raw/fastq/SRR31221174/SRR31221174_2.fastq.gz
+HSF_exp1	HSF_exp1_SAMN44572778	SRR31221166	Golden_Promise	control	3	leaf	day7	data/raw/fastq/SRR31221166/SRR31221166_1.fastq.gz	data/raw/fastq/SRR31221166/SRR31221166_2.fastq.gz
+HSF_exp1	HSF_exp1_SAMN44572800	SRR31221186	Golden_Promise	heat	1	leaf	day7	data/raw/fastq/SRR31221186/SRR31221186_1.fastq.gz	data/raw/fastq/SRR31221186/SRR31221186_2.fastq.gz
+HSF_exp1	HSF_exp1_SAMN44572787	SRR31221173	Golden_Promise	heat	2	leaf	day7	data/raw/fastq/SRR31221173/SRR31221173_1.fastq.gz	data/raw/fastq/SRR31221173/SRR31221173_2.fastq.gz
+HSF_exp1	HSF_exp1_SAMN44572777	SRR31221165	Golden_Promise	heat	3	leaf	day7	data/raw/fastq/SRR31221165/SRR31221165_1.fastq.gz	data/raw/fastq/SRR31221165/SRR31221165_2.fastq.gz
+HSF_exp2	HSF_exp2_SAMN50922003	SRR35220185	Golden_Promise	control	1	leaf	day7	data/raw/fastq/SRR35220185/SRR35220185_1.fastq.gz	data/raw/fastq/SRR35220185/SRR35220185_2.fastq.gz
+HSF_exp2	HSF_exp2_SAMN50922001	SRR35220183	Golden_Promise	control	3	leaf	day7	data/raw/fastq/SRR35220183/SRR35220183_1.fastq.gz	data/raw/fastq/SRR35220183/SRR35220183_2.fastq.gz
+HSF_exp2	HSF_exp2_SAMN50921997	SRR35220179	Golden_Promise	heat	1	leaf	day7	data/raw/fastq/SRR35220179/SRR35220179_1.fastq.gz	data/raw/fastq/SRR35220179/SRR35220179_2.fastq.gz
+HSF_exp2	HSF_exp2_SAMN50921996	SRR35220178	Golden_Promise	heat	2	leaf	day7	data/raw/fastq/SRR35220178/SRR35220178_1.fastq.gz	data/raw/fastq/SRR35220178/SRR35220178_2.fastq.gz
+HSF_exp2	HSF_exp2_SAMN50921995	SRR35220177	Golden_Promise	heat	3	leaf	day7	data/raw/fastq/SRR35220177/SRR35220177_1.fastq.gz	data/raw/fastq/SRR35220177/SRR35220177_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192437	ERR10612924	MCam109	control	1	flag_leaf	day3	data/raw/fastq/ERR10612924/ERR10612924_1.fastq.gz	data/raw/fastq/ERR10612924/ERR10612924_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192438	ERR10612925	MCam109	control	2	flag_leaf	day3	data/raw/fastq/ERR10612925/ERR10612925_1.fastq.gz	data/raw/fastq/ERR10612925/ERR10612925_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192436	ERR10612923	MCam109	control	3	flag_leaf	day3	data/raw/fastq/ERR10612923/ERR10612923_1.fastq.gz	data/raw/fastq/ERR10612923/ERR10612923_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192448	ERR10612935	MCam109	heat	1	flag_leaf	day3	data/raw/fastq/ERR10612935/ERR10612935_1.fastq.gz	data/raw/fastq/ERR10612935/ERR10612935_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192449	ERR10612936	MCam109	heat	2	flag_leaf	day3	data/raw/fastq/ERR10612936/ERR10612936_1.fastq.gz	data/raw/fastq/ERR10612936/ERR10612936_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192450	ERR10612937	MCam109	heat	3	flag_leaf	day3	data/raw/fastq/ERR10612937/ERR10612937_1.fastq.gz	data/raw/fastq/ERR10612937/ERR10612937_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192461	ERR10612948	MCam48	control	1	flag_leaf	day3	data/raw/fastq/ERR10612948/ERR10612948_1.fastq.gz	data/raw/fastq/ERR10612948/ERR10612948_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192462	ERR10612949	MCam48	control	2	flag_leaf	day3	data/raw/fastq/ERR10612949/ERR10612949_1.fastq.gz	data/raw/fastq/ERR10612949/ERR10612949_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192460	ERR10612947	MCam48	control	3	flag_leaf	day3	data/raw/fastq/ERR10612947/ERR10612947_1.fastq.gz	data/raw/fastq/ERR10612947/ERR10612947_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192473	ERR10612960	MCam48	heat	1	flag_leaf	day3	data/raw/fastq/ERR10612960/ERR10612960_1.fastq.gz	data/raw/fastq/ERR10612960/ERR10612960_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192472	ERR10612959	MCam48	heat	2	flag_leaf	day3	data/raw/fastq/ERR10612959/ERR10612959_1.fastq.gz	data/raw/fastq/ERR10612959/ERR10612959_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192474	ERR10612961	MCam48	heat	3	flag_leaf	day3	data/raw/fastq/ERR10612961/ERR10612961_1.fastq.gz	data/raw/fastq/ERR10612961/ERR10612961_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192486	ERR10612973	MCam53	control	1	flag_leaf	day3	data/raw/fastq/ERR10612973/ERR10612973_1.fastq.gz	data/raw/fastq/ERR10612973/ERR10612973_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192484	ERR10612971	MCam53	control	2	flag_leaf	day3	data/raw/fastq/ERR10612971/ERR10612971_1.fastq.gz	data/raw/fastq/ERR10612971/ERR10612971_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192485	ERR10612972	MCam53	control	3	flag_leaf	day3	data/raw/fastq/ERR10612972/ERR10612972_1.fastq.gz	data/raw/fastq/ERR10612972/ERR10612972_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192497	ERR10612984	MCam53	heat	1	flag_leaf	day3	data/raw/fastq/ERR10612984/ERR10612984_1.fastq.gz	data/raw/fastq/ERR10612984/ERR10612984_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192496	ERR10612983	MCam53	heat	2	flag_leaf	day3	data/raw/fastq/ERR10612983/ERR10612983_1.fastq.gz	data/raw/fastq/ERR10612983/ERR10612983_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192495	ERR10612982	MCam53	heat	3	flag_leaf	day3	data/raw/fastq/ERR10612982/ERR10612982_1.fastq.gz	data/raw/fastq/ERR10612982/ERR10612982_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192507	ERR10612994	MCam67	control	1	flag_leaf	day3	data/raw/fastq/ERR10612994/ERR10612994_1.fastq.gz	data/raw/fastq/ERR10612994/ERR10612994_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192506	ERR10612993	MCam67	control	2	flag_leaf	day3	data/raw/fastq/ERR10612993/ERR10612993_1.fastq.gz	data/raw/fastq/ERR10612993/ERR10612993_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192508	ERR10612995	MCam67	control	3	flag_leaf	day3	data/raw/fastq/ERR10612995/ERR10612995_1.fastq.gz	data/raw/fastq/ERR10612995/ERR10612995_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192518	ERR10613005	MCam67	heat	1	flag_leaf	day3	data/raw/fastq/ERR10613005/ERR10613005_1.fastq.gz	data/raw/fastq/ERR10613005/ERR10613005_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192517	ERR10613004	MCam67	heat	2	flag_leaf	day3	data/raw/fastq/ERR10613004/ERR10613004_1.fastq.gz	data/raw/fastq/ERR10613004/ERR10613004_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192519	ERR10613006	MCam67	heat	3	flag_leaf	day3	data/raw/fastq/ERR10613006/ERR10613006_1.fastq.gz	data/raw/fastq/ERR10613006/ERR10613006_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192529	ERR10613016	MCam71	control	1	flag_leaf	day3	data/raw/fastq/ERR10613016/ERR10613016_1.fastq.gz	data/raw/fastq/ERR10613016/ERR10613016_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192530	ERR10613017	MCam71	control	2	flag_leaf	day3	data/raw/fastq/ERR10613017/ERR10613017_1.fastq.gz	data/raw/fastq/ERR10613017/ERR10613017_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192531	ERR10613018	MCam71	control	3	flag_leaf	day3	data/raw/fastq/ERR10613018/ERR10613018_1.fastq.gz	data/raw/fastq/ERR10613018/ERR10613018_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192541	ERR10613028	MCam71	heat	1	flag_leaf	day3	data/raw/fastq/ERR10613028/ERR10613028_1.fastq.gz	data/raw/fastq/ERR10613028/ERR10613028_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192542	ERR10613029	MCam71	heat	2	flag_leaf	day3	data/raw/fastq/ERR10613029/ERR10613029_1.fastq.gz	data/raw/fastq/ERR10613029/ERR10613029_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192543	ERR10613030	MCam71	heat	3	flag_leaf	day3	data/raw/fastq/ERR10613030/ERR10613030_1.fastq.gz	data/raw/fastq/ERR10613030/ERR10613030_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192553	ERR10613040	MCam91	control	1	flag_leaf	day3	data/raw/fastq/ERR10613040/ERR10613040_1.fastq.gz	data/raw/fastq/ERR10613040/ERR10613040_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192554	ERR10613041	MCam91	control	2	flag_leaf	day3	data/raw/fastq/ERR10613041/ERR10613041_1.fastq.gz	data/raw/fastq/ERR10613041/ERR10613041_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192555	ERR10613042	MCam91	control	3	flag_leaf	day3	data/raw/fastq/ERR10613042/ERR10613042_1.fastq.gz	data/raw/fastq/ERR10613042/ERR10613042_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192566	ERR10613053	MCam91	heat	1	flag_leaf	day3	data/raw/fastq/ERR10613053/ERR10613053_1.fastq.gz	data/raw/fastq/ERR10613053/ERR10613053_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192565	ERR10613052	MCam91	heat	2	flag_leaf	day3	data/raw/fastq/ERR10613052/ERR10613052_1.fastq.gz	data/raw/fastq/ERR10613052/ERR10613052_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192567	ERR10613054	MCam91	heat	3	flag_leaf	day3	data/raw/fastq/ERR10613054/ERR10613054_1.fastq.gz	data/raw/fastq/ERR10613054/ERR10613054_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192577	ERR10613064	MCam99	control	1	flag_leaf	day3	data/raw/fastq/ERR10613064/ERR10613064_1.fastq.gz	data/raw/fastq/ERR10613064/ERR10613064_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192579	ERR10613066	MCam99	control	2	flag_leaf	day3	data/raw/fastq/ERR10613066/ERR10613066_1.fastq.gz	data/raw/fastq/ERR10613066/ERR10613066_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192578	ERR10613065	MCam99	control	3	flag_leaf	day3	data/raw/fastq/ERR10613065/ERR10613065_1.fastq.gz	data/raw/fastq/ERR10613065/ERR10613065_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192589	ERR10613076	MCam99	heat	1	flag_leaf	day3	data/raw/fastq/ERR10613076/ERR10613076_1.fastq.gz	data/raw/fastq/ERR10613076/ERR10613076_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192591	ERR10613078	MCam99	heat	2	flag_leaf	day3	data/raw/fastq/ERR10613078/ERR10613078_1.fastq.gz	data/raw/fastq/ERR10613078/ERR10613078_2.fastq.gz
+MC_day3	MC_day3_SAMEA112192590	ERR10613077	MCam99	heat	3	flag_leaf	day3	data/raw/fastq/ERR10613077/ERR10613077_1.fastq.gz	data/raw/fastq/ERR10613077/ERR10613077_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192440	ERR10612927	MCam109	control	1	flag_leaf	day7	data/raw/fastq/ERR10612927/ERR10612927_1.fastq.gz	data/raw/fastq/ERR10612927/ERR10612927_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192441	ERR10612928	MCam109	control	2	flag_leaf	day7	data/raw/fastq/ERR10612928/ERR10612928_1.fastq.gz	data/raw/fastq/ERR10612928/ERR10612928_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192439	ERR10612926	MCam109	control	3	flag_leaf	day7	data/raw/fastq/ERR10612926/ERR10612926_1.fastq.gz	data/raw/fastq/ERR10612926/ERR10612926_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192452	ERR10612939	MCam109	heat	1	flag_leaf	day7	data/raw/fastq/ERR10612939/ERR10612939_1.fastq.gz	data/raw/fastq/ERR10612939/ERR10612939_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192451	ERR10612938	MCam109	heat	2	flag_leaf	day7	data/raw/fastq/ERR10612938/ERR10612938_1.fastq.gz	data/raw/fastq/ERR10612938/ERR10612938_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192453	ERR10612940	MCam109	heat	3	flag_leaf	day7	data/raw/fastq/ERR10612940/ERR10612940_1.fastq.gz	data/raw/fastq/ERR10612940/ERR10612940_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192465	ERR10612952	MCam48	control	1	flag_leaf	day7	data/raw/fastq/ERR10612952/ERR10612952_1.fastq.gz	data/raw/fastq/ERR10612952/ERR10612952_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192463	ERR10612950	MCam48	control	2	flag_leaf	day7	data/raw/fastq/ERR10612950/ERR10612950_1.fastq.gz	data/raw/fastq/ERR10612950/ERR10612950_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192464	ERR10612951	MCam48	control	3	flag_leaf	day7	data/raw/fastq/ERR10612951/ERR10612951_1.fastq.gz	data/raw/fastq/ERR10612951/ERR10612951_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192476	ERR10612963	MCam48	heat	1	flag_leaf	day7	data/raw/fastq/ERR10612963/ERR10612963_1.fastq.gz	data/raw/fastq/ERR10612963/ERR10612963_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192477	ERR10612964	MCam48	heat	2	flag_leaf	day7	data/raw/fastq/ERR10612964/ERR10612964_1.fastq.gz	data/raw/fastq/ERR10612964/ERR10612964_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192475	ERR10612962	MCam48	heat	3	flag_leaf	day7	data/raw/fastq/ERR10612962/ERR10612962_1.fastq.gz	data/raw/fastq/ERR10612962/ERR10612962_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192487	ERR10612974	MCam53	control	1	flag_leaf	day7	data/raw/fastq/ERR10612974/ERR10612974_1.fastq.gz	data/raw/fastq/ERR10612974/ERR10612974_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192488	ERR10612975	MCam53	control	2	flag_leaf	day7	data/raw/fastq/ERR10612975/ERR10612975_1.fastq.gz	data/raw/fastq/ERR10612975/ERR10612975_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192489	ERR10612976	MCam53	control	3	flag_leaf	day7	data/raw/fastq/ERR10612976/ERR10612976_1.fastq.gz	data/raw/fastq/ERR10612976/ERR10612976_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192498	ERR10612985	MCam53	heat	1	flag_leaf	day7	data/raw/fastq/ERR10612985/ERR10612985_1.fastq.gz	data/raw/fastq/ERR10612985/ERR10612985_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192500	ERR10612987	MCam53	heat	2	flag_leaf	day7	data/raw/fastq/ERR10612987/ERR10612987_1.fastq.gz	data/raw/fastq/ERR10612987/ERR10612987_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192499	ERR10612986	MCam53	heat	3	flag_leaf	day7	data/raw/fastq/ERR10612986/ERR10612986_1.fastq.gz	data/raw/fastq/ERR10612986/ERR10612986_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192511	ERR10612998	MCam67	control	1	flag_leaf	day7	data/raw/fastq/ERR10612998/ERR10612998_1.fastq.gz	data/raw/fastq/ERR10612998/ERR10612998_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192510	ERR10612997	MCam67	control	2	flag_leaf	day7	data/raw/fastq/ERR10612997/ERR10612997_1.fastq.gz	data/raw/fastq/ERR10612997/ERR10612997_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192509	ERR10612996	MCam67	control	3	flag_leaf	day7	data/raw/fastq/ERR10612996/ERR10612996_1.fastq.gz	data/raw/fastq/ERR10612996/ERR10612996_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192520	ERR10613007	MCam67	heat	1	flag_leaf	day7	data/raw/fastq/ERR10613007/ERR10613007_1.fastq.gz	data/raw/fastq/ERR10613007/ERR10613007_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192522	ERR10613009	MCam67	heat	2	flag_leaf	day7	data/raw/fastq/ERR10613009/ERR10613009_1.fastq.gz	data/raw/fastq/ERR10613009/ERR10613009_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192521	ERR10613008	MCam67	heat	3	flag_leaf	day7	data/raw/fastq/ERR10613008/ERR10613008_1.fastq.gz	data/raw/fastq/ERR10613008/ERR10613008_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192532	ERR10613019	MCam71	control	1	flag_leaf	day7	data/raw/fastq/ERR10613019/ERR10613019_1.fastq.gz	data/raw/fastq/ERR10613019/ERR10613019_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192534	ERR10613021	MCam71	control	2	flag_leaf	day7	data/raw/fastq/ERR10613021/ERR10613021_1.fastq.gz	data/raw/fastq/ERR10613021/ERR10613021_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192533	ERR10613020	MCam71	control	3	flag_leaf	day7	data/raw/fastq/ERR10613020/ERR10613020_1.fastq.gz	data/raw/fastq/ERR10613020/ERR10613020_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192544	ERR10613031	MCam71	heat	1	flag_leaf	day7	data/raw/fastq/ERR10613031/ERR10613031_1.fastq.gz	data/raw/fastq/ERR10613031/ERR10613031_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192546	ERR10613033	MCam71	heat	2	flag_leaf	day7	data/raw/fastq/ERR10613033/ERR10613033_1.fastq.gz	data/raw/fastq/ERR10613033/ERR10613033_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192545	ERR10613032	MCam71	heat	3	flag_leaf	day7	data/raw/fastq/ERR10613032/ERR10613032_1.fastq.gz	data/raw/fastq/ERR10613032/ERR10613032_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192557	ERR10613044	MCam91	control	1	flag_leaf	day7	data/raw/fastq/ERR10613044/ERR10613044_1.fastq.gz	data/raw/fastq/ERR10613044/ERR10613044_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192558	ERR10613045	MCam91	control	2	flag_leaf	day7	data/raw/fastq/ERR10613045/ERR10613045_1.fastq.gz	data/raw/fastq/ERR10613045/ERR10613045_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192556	ERR10613043	MCam91	control	3	flag_leaf	day7	data/raw/fastq/ERR10613043/ERR10613043_1.fastq.gz	data/raw/fastq/ERR10613043/ERR10613043_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192570	ERR10613057	MCam91	heat	1	flag_leaf	day7	data/raw/fastq/ERR10613057/ERR10613057_1.fastq.gz	data/raw/fastq/ERR10613057/ERR10613057_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192569	ERR10613056	MCam91	heat	2	flag_leaf	day7	data/raw/fastq/ERR10613056/ERR10613056_1.fastq.gz	data/raw/fastq/ERR10613056/ERR10613056_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192568	ERR10613055	MCam91	heat	3	flag_leaf	day7	data/raw/fastq/ERR10613055/ERR10613055_1.fastq.gz	data/raw/fastq/ERR10613055/ERR10613055_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192580	ERR10613067	MCam99	control	1	flag_leaf	day7	data/raw/fastq/ERR10613067/ERR10613067_1.fastq.gz	data/raw/fastq/ERR10613067/ERR10613067_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192582	ERR10613069	MCam99	control	2	flag_leaf	day7	data/raw/fastq/ERR10613069/ERR10613069_1.fastq.gz	data/raw/fastq/ERR10613069/ERR10613069_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192581	ERR10613068	MCam99	control	3	flag_leaf	day7	data/raw/fastq/ERR10613068/ERR10613068_1.fastq.gz	data/raw/fastq/ERR10613068/ERR10613068_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192594	ERR10613081	MCam99	heat	1	flag_leaf	day7	data/raw/fastq/ERR10613081/ERR10613081_1.fastq.gz	data/raw/fastq/ERR10613081/ERR10613081_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192593	ERR10613080	MCam99	heat	2	flag_leaf	day7	data/raw/fastq/ERR10613080/ERR10613080_1.fastq.gz	data/raw/fastq/ERR10613080/ERR10613080_2.fastq.gz
+MC_day7	MC_day7_SAMEA112192592	ERR10613079	MCam99	heat	3	flag_leaf	day7	data/raw/fastq/ERR10613079/ERR10613079_1.fastq.gz	data/raw/fastq/ERR10613079/ERR10613079_2.fastq.gz

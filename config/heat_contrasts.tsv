@@ -1,0 +1,34 @@
+contrast_id	model_id	comparison_family	contrast_label	coefficient_vector
+B_Mona_heat	B_heat_joint	heat	Mona heat minus control	{"cellMona_control":-1,"cellMona_heat":1}
+B_wild_heat	B_heat_joint	heat	Wild Urmia heat minus control	{"cellwild_Urmia_control":-1,"cellwild_Urmia_heat":1}
+B_average_heat	B_heat_joint	heat	Equal-genotype average heat minus control	{"cellMona_control":-0.5,"cellMona_heat":0.5,"cellwild_Urmia_control":-0.5,"cellwild_Urmia_heat":0.5}
+B_baseline_joint	B_heat_joint	baseline	Wild Urmia minus Mona under control in the joint model	{"cellMona_control":-1,"cellwild_Urmia_control":1}
+B_heated_genotypes	B_heat_joint	heatgenotype	Wild Urmia minus Mona under heat	{"cellMona_heat":-1,"cellwild_Urmia_heat":1}
+B_interaction	B_heat_joint	interaction	Wild Urmia response minus Mona response	{"cellMona_control":1,"cellMona_heat":-1,"cellwild_Urmia_control":-1,"cellwild_Urmia_heat":1}
+Pacak_shoot_heat	Pacak_shoot	heat	Rolap shoot heat minus control	{"cellRolap_control":-1,"cellRolap_heat":1}
+Pacak_root_heat	Pacak_root	heat	Rolap root heat minus control	{"cellRolap_control":-1,"cellRolap_heat":1}
+F_middle_heat	F_middle	heat	Morex leaf middle heat minus control at 4 h	{"cellMorex_control":-1,"cellMorex_heat":1}
+F_tip_heat	F_tip	heat	Morex leaf tip heat minus control at 4 h	{"cellMorex_control":-1,"cellMorex_heat":1}
+F_base_heat	F_base	heat	Morex leaf base heat minus control at 4 h	{"cellMorex_control":-1,"cellMorex_heat":1}
+CR22_day1_BW827_heat	CR22_day1	heat	BW827 heat minus control, CR22_day1	{"cellBW827_control":-1,"cellBW827_heat":1}
+CR22_day1_BW828_heat	CR22_day1	heat	BW828 heat minus control, CR22_day1	{"cellBW828_control":-1,"cellBW828_heat":1}
+CR22_day1_Bowman_heat	CR22_day1	heat	Bowman heat minus control, CR22_day1	{"cellBowman_control":-1,"cellBowman_heat":1}
+CR22_day10_BW827_heat	CR22_day10	heat	BW827 heat minus control, CR22_day10	{"cellBW827_control":-1,"cellBW827_heat":1}
+CR22_day10_BW828_heat	CR22_day10	heat	BW828 heat minus control, CR22_day10	{"cellBW828_control":-1,"cellBW828_heat":1}
+CR22_day10_Bowman_heat	CR22_day10	heat	Bowman heat minus control, CR22_day10	{"cellBowman_control":-1,"cellBowman_heat":1}
+HSF_exp1_Golden_Promise_heat	HSF_exp1	heat	Golden Promise heat minus control	{"cellGolden_Promise_control":-1,"cellGolden_Promise_heat":1}
+HSF_exp2_Golden_Promise_heat	HSF_exp2	heat	Golden Promise heat minus control	{"cellGolden_Promise_control":-1,"cellGolden_Promise_heat":1}
+MC_day3_MCam109_heat	MC_day3	heat	MCam109 heat minus control, MC_day3	{"cellMCam109_control":-1,"cellMCam109_heat":1}
+MC_day3_MCam48_heat	MC_day3	heat	MCam48 heat minus control, MC_day3	{"cellMCam48_control":-1,"cellMCam48_heat":1}
+MC_day3_MCam53_heat	MC_day3	heat	MCam53 heat minus control, MC_day3	{"cellMCam53_control":-1,"cellMCam53_heat":1}
+MC_day3_MCam67_heat	MC_day3	heat	MCam67 heat minus control, MC_day3	{"cellMCam67_control":-1,"cellMCam67_heat":1}
+MC_day3_MCam71_heat	MC_day3	heat	MCam71 heat minus control, MC_day3	{"cellMCam71_control":-1,"cellMCam71_heat":1}
+MC_day3_MCam91_heat	MC_day3	heat	MCam91 heat minus control, MC_day3	{"cellMCam91_control":-1,"cellMCam91_heat":1}
+MC_day3_MCam99_heat	MC_day3	heat	MCam99 heat minus control, MC_day3	{"cellMCam99_control":-1,"cellMCam99_heat":1}
+MC_day7_MCam109_heat	MC_day7	heat	MCam109 heat minus control, MC_day7	{"cellMCam109_control":-1,"cellMCam109_heat":1}
+MC_day7_MCam48_heat	MC_day7	heat	MCam48 heat minus control, MC_day7	{"cellMCam48_control":-1,"cellMCam48_heat":1}
+MC_day7_MCam53_heat	MC_day7	heat	MCam53 heat minus control, MC_day7	{"cellMCam53_control":-1,"cellMCam53_heat":1}
+MC_day7_MCam67_heat	MC_day7	heat	MCam67 heat minus control, MC_day7	{"cellMCam67_control":-1,"cellMCam67_heat":1}
+MC_day7_MCam71_heat	MC_day7	heat	MCam71 heat minus control, MC_day7	{"cellMCam71_control":-1,"cellMCam71_heat":1}
+MC_day7_MCam91_heat	MC_day7	heat	MCam91 heat minus control, MC_day7	{"cellMCam91_control":-1,"cellMCam91_heat":1}
+MC_day7_MCam99_heat	MC_day7	heat	MCam99 heat minus control, MC_day7	{"cellMCam99_control":-1,"cellMCam99_heat":1}

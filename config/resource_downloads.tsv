@@ -1,0 +1,7 @@
+path	url
+data/reference/Hordeum_vulgare.MorexV3_pseudomolecules_assembly.dna.toplevel.fa.gz	https://ftp.ebi.ac.uk/ensemblgenomes/pub/plants/release-63/fasta/hordeum_vulgare/dna/Hordeum_vulgare.MorexV3_pseudomolecules_assembly.dna.toplevel.fa.gz
+data/reference/Hordeum_vulgare.MorexV3_pseudomolecules_assembly.63.gtf.gz	https://ftp.ebi.ac.uk/ensemblgenomes/pub/plants/release-63/gtf/hordeum_vulgare/Hordeum_vulgare.MorexV3_pseudomolecules_assembly.63.gtf.gz
+data/atlas/panbart20_tpm_quant_files.tar.gz	https://ics.hutton.ac.uk/panbart20/downloads/panbart20_tpm_quant_files.tar.gz
+data/atlas/morex_to_pan.tmap.gz	https://ics.hutton.ac.uk/eorna2/downloads/HORVU3_cmp_PanBart20_nocov.horvu3_gmap_panbart20_nocov.gff3.tmap.gz
+data/atlas/pan_to_morex.tmap.gz	https://ics.hutton.ac.uk/eorna2/downloads/PanBart20_cmp_HORVU3_nocov.PanBaRT20.gtf.gff3.tmap.gz
+data/atlas/PanBaRT20_renamed.gff3.gz	https://ics.hutton.ac.uk/panbart20/downloads/PanBaRT20_renamed.gff3.gz
